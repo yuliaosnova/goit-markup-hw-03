@@ -168,7 +168,7 @@ hero
 .hero {
   background-color: var(--hero-bg);
   text-align: center;
-  /* width: 1600px; */
+  width: 1600px;
   height: 600px;
   margin-left: auto;
   margin-right: auto;
